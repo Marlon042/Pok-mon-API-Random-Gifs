@@ -1,3 +1,8 @@
+![image](https://github.com/Marlon042/Pok-mon-API-Random-Gifs/assets/127366345/f60472c2-9125-4179-8abc-740e6b6a4305)
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
